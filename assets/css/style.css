@@ -1,0 +1,9 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("../images/usflag.GIF");
+  background-repeat: no-repeat;
+}
+
+#time {
+  margin-left: 50px;
+}
